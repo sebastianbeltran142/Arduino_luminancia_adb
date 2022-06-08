@@ -13,6 +13,6 @@ Imágenes de muestra en Proteus:
 
 ![](img/Arduino4_Proteus_adb.PNG)
 
-Espero les sirva para sus proyectos. Pueden descargar, aportar mejoras y divertirse. Gracias y excelente jornada.
+Espero les sirva para sus proyectos. Pueden descargar, aportar mejoras en el código y divertirse. Gracias y excelente jornada.
 
 AdB
